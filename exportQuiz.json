@@ -1,0 +1,212 @@
+{
+    "results": [
+        {
+            "columns": [
+                {
+                    "name": "QNID",
+                    "type": ""
+                },
+                {
+                    "name": "QN",
+                    "type": ""
+                },
+                {
+                    "name": "IMAGENAME",
+                    "type": ""
+                },
+                {
+                    "name": "OPTION1",
+                    "type": ""
+                },
+                {
+                    "name": "OPTION2",
+                    "type": ""
+                },
+                {
+                    "name": "OPTION3",
+                    "type": ""
+                },
+                {
+                    "name": "OPTION4",
+                    "type": ""
+                },
+                {
+                    "name": "ANSWER",
+                    "type": ""
+                }
+            ],
+            "items": [
+                {
+                    "qnid": 1500,
+                    "qn": "What does HTML stand for?",
+                    "imagename": "NULL",
+                    "option1": "Hyper Trainer Marking Language",
+                    "option2": "Hyper Text Marketing Language",
+                    "option3": "Hyper Text Markup Language",
+                    "option4": "Hyper Text Markup Leveler",
+                    "answer": 2
+                },
+                {
+                    "qnid": 1501,
+                    "qn": "In Java, a method is a container that holds classes.",
+                    "imagename": "NULL",
+                    "option1": "True",
+                    "option2": "False",
+                    "option3": "NULL",
+                    "option4": "NULL",
+                    "answer": 1
+                },
+                {
+                    "qnid": 1502,
+                    "qn": "Who invented the first computer ?",
+                    "imagename": "NULL",
+                    "option1": "Charles Babbage",
+                    "option2": "Linus Torvalds",
+                    "option3": "Dennis Ritchie",
+                    "option4": "James Gosling",
+                    "answer": 0
+                },
+                {
+                    "qnid": 1503,
+                    "qn": "Which of the following languages is more suited to a structured program?",
+                    "imagename": "NULL",
+                    "option1": "FORTRAN",
+                    "option2": "BASIC",
+                    "option3": "PASCAL",
+                    "option4": "PL/1",
+                    "answer": 2
+                },
+                {
+                    "qnid": 1504,
+                    "qn": "The brain of any computer system is",
+                    "imagename": "NULL",
+                    "option1": "ALU",
+                    "option2": "Memory",
+                    "option3": "CPU",
+                    "option4": "Control unit",
+                    "answer": 2
+                },
+                {
+                    "qnid": 1505,
+                    "qn": "Which of the following computer language is used for artificial intelligence?",
+                    "imagename": "NULL",
+                    "option1": "FORTRAN",
+                    "option2": "PROLOG",
+                    "option3": "C",
+                    "option4": "COBOL",
+                    "answer": 1
+                },
+                {
+                    "qnid": 1506,
+                    "qn": "Which of the following is the 1's complement of 10?",
+                    "imagename": "NULL",
+                    "option1": "01",
+                    "option2": "110",
+                    "option3": "11",
+                    "option4": "10",
+                    "answer": 0
+                },
+                {
+                    "qnid": 1507,
+                    "qn": "The binary system uses powers of",
+                    "imagename": "NULL",
+                    "option1": "2",
+                    "option2": "10",
+                    "option3": "8",
+                    "option4": "16",
+                    "answer": 0
+                },
+                {
+                    "qnid": 1508,
+                    "qn": "A computer program that convert sassembly language to machine language is",
+                    "imagename": "NULL",
+                    "option1": "Compiler",
+                    "option2": "Interpreter",
+                    "option3": "Assembler",
+                    "option4": "Comparator",
+                    "answer": 2
+                },
+                {
+                    "qnid": 1509,
+                    "qn": "You can add a row using SQL in a database with which of the following?",
+                    "imagename": "NULL",
+                    "option1": "ADD",
+                    "option2": "CREATE",
+                    "option3": "INSERT",
+                    "option4": "MAKE",
+                    "answer": 2
+                },
+                {
+                    "qnid": 1510,
+                    "qn": "The SQL keyword(s)________ is used with wildcards.",
+                    "imagename": "NULL",
+                    "option1": "LIKE only",
+                    "option2": "IN only",
+                    "option3": "NOT IN only",
+                    "option4": "IN and NOT IN",
+                    "answer": 0
+                },
+                {
+                    "qnid": 1511,
+                    "qn": "SQL query and modification commands make up a(n)",
+                    "imagename": "NULL",
+                    "option1": "DDL",
+                    "option2": "DML",
+                    "option3": "HTML",
+                    "option4": "XML",
+                    "answer": 1
+                },
+                {
+                    "qnid": 1512,
+                    "qn": "Inside which HTML element do we put the JavaScript?",
+                    "imagename": "NULL",
+                    "option1": "<javascript>",
+                    "option2": "<js>",
+                    "option3": "<scripting>",
+                    "option4": "<script>",
+                    "answer": 3
+                },
+                {
+                    "qnid": 1513,
+                    "qn": "The external Java Script file must contain the <script> tag.",
+                    "imagename": "NULL",
+                    "option1": "True",
+                    "option2": "False",
+                    "option3": "NULL",
+                    "option4": "NULL",
+                    "answer": 1
+                },
+                {
+                    "qnid": 1514,
+                    "qn": "How can you add a comment in a JavaScript?",
+                    "imagename": "NULL",
+                    "option1": "'This is a comment",
+                    "option2": "<!--This is a comment-->",
+                    "option3": "//This is a comment",
+                    "option4": "NULL",
+                    "answer": 2
+                },
+                {
+                    "qnid": 1515,
+                    "qn": "Name the following device.",
+                    "imagename": "q16.jpg",
+                    "option1": "Graphics card",
+                    "option2": "Keyboard",
+                    "option3": "CPU",
+                    "option4": "Mouse",
+                    "answer": 3
+                },
+                {
+                    "qnid": 1516,
+                    "qn": "Following picture represnts.",
+                    "imagename": "q17.png",
+                    "option1": "Full Outer Join",
+                    "option2": "Left Join",
+                    "option3": "Right Join",
+                    "option4": "Inner Join",
+                    "answer": 3
+                }
+            ]
+        }
+    ]
+}
